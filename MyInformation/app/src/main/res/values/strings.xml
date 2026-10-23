@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Information</string>
+
+    <string name="full_name">Skibidi Toilet</string>
+    <string name="job_title">Student</string>
+    <string name="phone_number">+01 (23) 456 789</string>
+    <string name="social_handle">"@skibididopdopdopyesyes"</string>
+    <string name="email_address">skibidi@toilet.com</string>
+
+    <string name="profile_image_description">Profile image</string>
+</resources>
