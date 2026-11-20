@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My City</string>
+
+    <string name="home_overline">MY CITY</string>
+    <string name="home_title">Мой город</string>
+    <string name="home_subtitle">Гид по интересным местам Кемерова</string>
+    <string name="home_description">Рестораны, парки, кофейни, кинотеатры и торговые центры Кемерова — собрали лучшее в одном приложении.</string>
+    <string name="home_choose_category">Выберите категорию</string>
+    <string name="home_footer">Все места проверены и описаны\nспециально для этого гида</string>
+
+    <string name="back">Назад</string>
+    <string name="close">Закрыть</string>
+
+    <string name="empty_details_title">Выберите место</string>
+    <string name="empty_details_text">Нажмите на карточку, чтобы увидеть фотографию, адрес и подробное описание.</string>
+    <string name="place_not_found">Место не найдено</string>
+    <string name="place_not_found_text">Похоже, эта карточка больше недоступна. Вернитесь к списку рекомендаций.</string>
+
+    <string name="address">Адрес</string>
+    <string name="working_hours">Часы работы</string>
+    <string name="about_place">Об этом месте</string>
+    <string name="features">Особенности</string>
+    <string name="rating_format">%1$.1f</string>
+
+    <plurals name="places_count">
+        <item quantity="one">%d место</item>
+        <item quantity="few">%d места</item>
+        <item quantity="many">%d мест</item>
+        <item quantity="other">%d мест</item>
+    </plurals>
+
+    <plurals name="categories_count">
+        <item quantity="one">%d категория</item>
+        <item quantity="few">%d категории</item>
+        <item quantity="many">%d категорий</item>
+        <item quantity="other">%d категорий</item>
+    </plurals>
+</resources>
